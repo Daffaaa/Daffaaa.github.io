@@ -1,0 +1,24 @@
+h1	{color: #cc3399}
+
+h2	{color: #ff3300;}
+
+a {color: red;}
+
+#nav	{
+	border: 3px dotted blue;
+	margin:	10px 5px 15px 20px;
+}
+
+#nav a {
+	color: pink;
+	text-decoration: none;
+
+}
+
+.recommended {
+	background-color: red;
+	font-family: Helvetica;
+	font-variant:small-caps;
+	word-spacing: 10px
+	
+}
